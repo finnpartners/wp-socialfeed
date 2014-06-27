@@ -1,0 +1,2 @@
+Loads Twitter and Instagram posts. For each source, the plugin can perform a tag search or load from one or more accounts' timeline. 
+Multiple accounts and tags can be specified. The posts are saved in database and data can be loaded from theme or other plugins. Exclude words filter is available.
