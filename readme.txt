@@ -1,5 +1,5 @@
 === SocialFeed ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: noahfinn
 Donate link: http://example.com/
 Tags: twitter, instagram
 Requires at least: 3.0.1
