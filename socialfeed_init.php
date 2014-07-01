@@ -22,6 +22,7 @@
 function SocialFeed_init($file) {
 
     require_once('SocialFeed_Plugin.php');
+	
     if(!class_exists("AdminList")){
 		require_once("include/AdminList.php");
 	} 
