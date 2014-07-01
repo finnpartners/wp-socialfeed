@@ -1,6 +1,7 @@
 <?php
+  
 if(!class_exists('WP_List_Table_Custom')){
-    require_once( ABSPATH . 'wp-content/plugins/socialfeed/include/class-wp-list-table.php' );
+    require_once( plugin_dir_path( __FILE__ ) . 'class-wp-list-table.php' );
 }
 
 class AdminList extends WP_List_Table_Custom {
